@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Adjie Indrawan
-### Frontend Developer & UI/UX Designer
+## Frontend Developer & UI/UX Designer
 
 * **Personal Website:** [adjieindrawan.com](https://adjieindrawan.com/)
 * **LinkedIn:** [adjieindrawan](https://www.linkedin.com/in/adjieindrawan/)
